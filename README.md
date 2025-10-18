@@ -1,8 +1,7 @@
 # 🛒 Appify – E-Commerce Website (Frontend)
 
 <p align="center">
-  <img src="https://i.ibb.co/Q3qSbcQ2/5e621b67dac9b07531a63e815cf3f0cb.jpg" alt="Appify E-Commerce Banner" width="600"/>
-</p>
+<a href="https://ibb.co/Wpph3pv5"><img src="https://i.ibb.co/PzzLYzGj/Screenshot-20251018-005849.jpg" alt="Screenshot-20251018-005849" border="0"></a>
 
 ---
 
